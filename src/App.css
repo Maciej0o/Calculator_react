@@ -14,14 +14,20 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: rgb(246,218,215);
+background: linear-gradient(80deg, rgba(246,218,215,1) 0%, rgba(153,151,151,1) 50%, rgba(217,216,215,1) 100%);
+
+
+
+
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
